@@ -8,7 +8,7 @@ export const Banner = () => {
                     <span className="hidden sm:inline">Unleash Your Stunning Landing Page — </span>
                     <div className="inline-flex gap-1 items-center">
                         <a href="#" className="underline underline-offset-4">
-                            Book a call
+                            Schedule a call
                         </a>
                         <span className="h-4 w-4 inline-flex justify-center items-center">
                             <MdOutlineArrowRightAlt/>
