@@ -10,9 +10,7 @@ export const Banner = () => {
                         <a href="#" className="underline underline-offset-4">
                             Schedule a call
                         </a>
-                        <span className="h-4 w-4 inline-flex justify-center items-center">
-                            <MdOutlineArrowRightAlt/>
-                        </span>
+                        <MdOutlineArrowRightAlt/>
                     </div>
                 </p>
             </div>
